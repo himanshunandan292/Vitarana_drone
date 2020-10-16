@@ -1,3 +1,6 @@
 # Eyantra-vbot
 Tasks for eyantra
-Himanshu nandan
+Himanshu
+Arunesh 
+Aditya 
+varshini 
